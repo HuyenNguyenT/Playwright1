@@ -12,7 +12,7 @@ describe("Lanuch local browser", () =>{
             //run with specific browser
             // channel: "msedge"
             //run with local browser version 
-            executablePath : "C:\\Program Files\\Google/Chrome\\Application/chrome.exe"
+            // executablePath : "C:\\Program Files\\Google/Chrome\\Application/chrome.exe"
 
         });
         context = await browser.newContext();
